@@ -1,9 +1,10 @@
-
 # Kapitel 1. Einführung zu Rhythmus und Schlagzeug
 
-Hallo, zukünftiger Schlagzeuger! 🎶 Lass uns gemeinsam das Schlagzeugspielen lernen und Spaß dabei haben. In diesem kurzen Guide findest du alles, was du brauchst, um loszulegen: Wir schauen uns die verschiedenen Trommeln an, lernen, wie man den Takt hält, und üben einfache Rhythmen. Bist du bereit? Los geht’s! 🥁
+Hallo, zukünftiger Schlagzeuger! 🎶 Lass uns gemeinsam das Schlagzeugspielen lernen und Spaß dabei haben. In diesem kurzen Guide findest du alles, was du brauchst, um loszulegen: Wir schauen uns die verschiedenen Trommeln an, lernen, wie man den Takt hält, und üben einfache Rhythmen. Bist du bereit? Los geht's! 🥁
 
 ## 1. Die verschiedenen Trommeln 🥁
+
+<img src="/api/placeholder/400/320" alt="Schlagzeug-Set" />
 
 Es gibt viele verschiedene Trommeln, aber hier sind die wichtigsten, die in einem Schlagzeug-Set vorkommen:
 
@@ -75,7 +76,7 @@ Schlagzeugnoten sehen vielleicht am Anfang etwas seltsam aus, aber sie sind einf
 
 **Wie man es liest:**
 
-- **Hi-Hat (x)**: Schlage die Hi-Hat bei jedem Schlag und jedem „und“.
+- **Hi-Hat (x)**: Schlage die Hi-Hat bei jedem Schlag und jedem „und".
 - **Snare Drum (o)**: Schlage die Snare auf die Schläge 2 und 4.
 - **Bass Drum (o)**: Schlage die Bass Drum auf die Schläge 1 und 3.
 
