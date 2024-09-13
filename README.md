@@ -1,5 +1,5 @@
 
-# Kapitel 1. Einführung ins Schlagzeugspielen
+# Kapitel 1. Einführung zu Rhythmus und Schlagzeug
 
 Hallo, zukünftiger Schlagzeuger! 🎶 Lass uns gemeinsam das Schlagzeugspielen lernen und Spaß dabei haben. In diesem kurzen Guide findest du alles, was du brauchst, um loszulegen: Wir schauen uns die verschiedenen Trommeln an, lernen, wie man den Takt hält, und üben einfache Rhythmen. Bist du bereit? Los geht’s! 🥁
 
