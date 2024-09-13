@@ -4,7 +4,7 @@ Hallo, zukünftiger Schlagzeuger! 🎶 Lass uns gemeinsam das Schlagzeugspielen 
 
 ## 1. Die verschiedenen Trommeln 🥁
 
-<img src="/api/placeholder/400/320" alt="Schlagzeug-Set" />
+![Schlagzeug-Set](https://www.kickstartyourdrumming.com/wp-content/uploads/2016/06/mendini-drum-set-reviews_regular-setup.jpg)
 
 Es gibt viele verschiedene Trommeln, aber hier sind die wichtigsten, die in einem Schlagzeug-Set vorkommen:
 
