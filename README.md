@@ -1,5 +1,5 @@
 
-# Einführung ins Schlagzeugspielen für Kinder
+# Kapitel 1. Einführung ins Schlagzeugspielen
 
 Hallo, zukünftiger Schlagzeuger! 🎶 Lass uns gemeinsam das Schlagzeugspielen lernen und Spaß dabei haben. In diesem kurzen Guide findest du alles, was du brauchst, um loszulegen: Wir schauen uns die verschiedenen Trommeln an, lernen, wie man den Takt hält, und üben einfache Rhythmen. Bist du bereit? Los geht’s! 🥁
 
@@ -127,5 +127,3 @@ In dieser Übung spielen wir zwei **Bass Drum**-Schläge auf **1 und 2** und auf
 ---
 
 Viel Spaß beim Trommeln und denk dran: Hab immer Freude daran und übe fleißig! 🎵 Zähl laut mit, nutze das Metronom, und bald wirst du wie ein Rockstar spielen!
-
-Schick die schönsten Beats an die warmherzigste Melodie aus Bayern!
